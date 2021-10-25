@@ -4,5 +4,32 @@
  */
 
 public class Application {
+    public static void main(String[] args){
 
+    }
+
+    private static void addItem(){
+
+    }
+    private static void removeItem(){
+
+    }
+    private static void editList(){
+
+    }
+    private static void editItem(){
+
+    }
+    private static void saveList(){
+
+    }
+    private static void loadList(){
+
+    }
+    private static void markComplete(){
+
+    }
+    private static void unMarkComplete(){
+
+    }
 }
